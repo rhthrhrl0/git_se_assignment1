@@ -1,2 +1,3 @@
 main 초기작업이 수행됨.
+button1 작업완료
 activity1 작업 완료
