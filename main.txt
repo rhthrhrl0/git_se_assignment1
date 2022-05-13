@@ -1,2 +1,3 @@
 main 초기작업이 수행됨.
 activity1 작업 완료
+activity2 작업 완료
